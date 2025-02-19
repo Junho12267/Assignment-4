@@ -14,5 +14,8 @@
     ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20213324.jpg)
    
 7. Plot the echos in a histogram including the total echos, lead clusters and sea ice clusters. Make sure to include the axis label and title.
-8. Create a scatter plot of sea ice and lead for clustered data.
-9. Align the waveform and compare the output with ESA(European Space Agency) data using a confusion matrix.
+   ![Image Description](![Image Description]()
+   
+   
+9. Create a scatter plot of sea ice and lead for clustered data.
+10. Align the waveform and compare the output with ESA(European Space Agency) data using a confusion matrix.
