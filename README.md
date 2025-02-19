@@ -1,7 +1,7 @@
 # Assignment 4
 #### The purpose of this assignment is to classify the echos in sea ice and lead and produce an average echo shape and standard deviation for 2 classes. This can then be compared with the data from the European Space Agency.
 
-### Steps to follow. (#####This summarises the key steps taken to calculate the eco shape, mean and standard deviation. For more detailed code refer to the Chapeter1_Unsupervised_Learning_Method.jpynb)
+### Steps to follow. (This summarises the key steps taken to calculate the eco shape, mean and standard deviation. For more detailed code refer to the Chapeter1_Unsupervised_Learning_Method.jpynb)
 1. Download the Sentinel 2 image, which was previously saved.
 2. Use the K mean method to plot the image to classify sea ice and lead. Include the colour bar to show the cluster label of the image which ranges from -1 to 1.
    
