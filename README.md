@@ -20,4 +20,5 @@
 7. Create a scatter plot of sea ice and lead for clustered data.
    ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20214104.jpg)
    
-9. Align the waveform and compare the output with ESA(European Space Agency) data using a confusion matrix.
+8. Align the waveform and compare the output with ESA(European Space Agency) data using a confusion matrix.
+   ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20220204.jpg)
