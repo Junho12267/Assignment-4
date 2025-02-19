@@ -22,5 +22,5 @@
    
 8. Align the waveform and compare the output with ESA(European Space Agency) data using a confusion matrix.
    ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20220204.jpg)
-   ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20220204.jpg)
+   ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20220234.jpg)
    
