@@ -11,7 +11,7 @@
    
 4. Import Sentinel 3 data from the previously saved image. It is essential to do some preprocessing of data such as calculating variables such as peakiness and SSD(Stacked Standard Deviation) and deleting all NAN data.
 5. Plot the mean and standard deviation of sea ice and lead with echo number on the x-axis and deviation from the mean on the y-axis. Make sure to include the axis label and title.
-    ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20212848.jpg)
+    ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20213324.jpg)
    
 7. Plot the echos in a histogram including the total echos, lead clusters and sea ice clusters. Make sure to include the axis label and title.
 8. Create a scatter plot of sea ice and lead for clustered data.
