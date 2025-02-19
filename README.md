@@ -1,5 +1,5 @@
 # Assignment 4
-#### The purpose of this code is to classify the echos in sea ice and lead and produce an average echo shape as well as standard deviation for 2 classes.
+#### The purpose of this assignment is to classify the echos in sea ice and lead and produce an average echo shape and standard deviation for 2 classes. This can then be compared with the data from the European Space Agency.
 
 ### Steps to follow
 1. Download the Sentinel 2 image, which was previously saved.
