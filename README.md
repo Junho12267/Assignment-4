@@ -13,9 +13,11 @@
 5. Plot the mean and standard deviation of sea ice and lead with echo number on the x-axis and deviation from the mean on the y-axis. Make sure to include the axis label and title.
     ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20213324.jpg)
    
-7. Plot the echos in a histogram including the total echos, lead clusters and sea ice clusters. Make sure to include the axis label and title.
-   ![Image Description](![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20214104.jpg)
+6. Plot the echos in a histogram including the total echos, lead clusters and sea ice clusters. Make sure to include the axis label and title.
+   ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20214104.jpg)
    
    
-9. Create a scatter plot of sea ice and lead for clustered data.
-10. Align the waveform and compare the output with ESA(European Space Agency) data using a confusion matrix.
+7. Create a scatter plot of sea ice and lead for clustered data.
+   ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20214104.jpg)
+   
+9. Align the waveform and compare the output with ESA(European Space Agency) data using a confusion matrix.
