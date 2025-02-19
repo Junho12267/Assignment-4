@@ -1,4 +1,4 @@
-# Assignment4
+# Assignment 4
 #### The purpose of this code is to classify the echos in sea ice and lead and produce an average echo shape as well as standard deviation for 2 classes.
 
 ### Steps to follow
@@ -7,7 +7,7 @@
    
    ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20212204.jpg)
 3. Now import the same image and use GMM(Gaussian Mixture Method) to plot the image this time. Use the same scale for the colour bar so that it is easy to compare.
-
+   ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20212204.jpg)
    
 5. Import Sentinel 3 data from the previously saved image. It is essential to do some preprocessing of data such as calculating variables such as peakiness and SSD(Stacked Standard Deviation) and deleting all NAN data.
 6. Plot the mean and standard deviation of sea ice and lead with echo number on the x-axis and deviation from the mean on the y-axis. Make sure to include the axis label and title.
