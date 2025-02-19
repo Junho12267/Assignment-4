@@ -5,7 +5,7 @@
 1. Download the Sentinel 2 image, which was previously saved.
 2. Use the K mean method to plot the image to classify sea ice and lead. Include the colour bar to show the cluster label of the image which ranges from -1 to 1.
    
-   ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20212204.jpg)
+   Figure 1![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20212204.jpg)
 3. Now import the same image and use GMM(Gaussian Mixture Method) to plot the image this time. Use the same scale for the colour bar so that it is easy to compare.
    ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20212848.jpg)
    
@@ -23,4 +23,7 @@
 8. Align the waveform and compare the output with ESA(European Space Agency) data using a confusion matrix.
    ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20220204.jpg)
    ![Image Description](https://github.com/Junho12267/Assignment-4/blob/main/Screenshot%202025-02-19%20220234.jpg)
+
+
+   ### Conclusion: The Sentinel-2 and Sentinel-3 data acquired are very accurate as the accuracy of the confusion matrix is around 99 to 100% based on confusion matrix. However, the echos tend to have quite high standard deviation based on the 
    
